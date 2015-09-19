@@ -10,6 +10,7 @@ add this line for commit 4
 add this line for commit 5
 add this line for commit 6
 add this line for commit 11
+add this line for commit 12
 
 on bug-fix-experimental branch : 
 add this line for commit 7
