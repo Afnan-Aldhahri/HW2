@@ -8,6 +8,7 @@ on bug-fix branch :
 add this line for commit 3
 add this line for commit 4 
 add this line for commit 5
+add this line for commit 6
 
 
 
